@@ -1,0 +1,15 @@
+doctype
+html
+  head
+    script(src="js/live.js")
+    link(rel="stylesheet" href="css/main.css")
+    script(src="js/jquery-2.1.1.min.js")
+    script(src="js/flowtype.js")
+  body
+      != yield
+      
+      #footer
+        p <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+        
+      #app-start
+        script(src="js/app.js")

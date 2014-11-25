@@ -4,4 +4,4 @@ Peaceful Robot
 Information Security and Assurance
 ----------------------------------
 
-A not-for-profit organization.
+### A not-for-profit.

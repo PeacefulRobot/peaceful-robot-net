@@ -1,0 +1,10 @@
+doctype
+html(ng-app)
+  head(manifest)
+    script(data-main="js/app" src="js/require.js")
+    title #{ title }
+    meta(name="description" content="#{ description } ")
+    link(rel="stylesheet" href="main.css")
+    
+  body
+      != yield      

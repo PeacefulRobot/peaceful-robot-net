@@ -4,3 +4,4 @@ CNAME
 package.json
 Procfile
 server.js
+\public\js\lib\bower_components

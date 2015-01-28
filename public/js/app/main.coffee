@@ -1,3 +1,2 @@
 define (require) ->
-  testlit = require 'app/testlit'
-  alert "!"
+  start = require 'app/gh'

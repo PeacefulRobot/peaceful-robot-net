@@ -1,6 +1,0 @@
-import Ember from 'ember';
-import 'targets-cs' from './targets-cs';
-
-
-export default Ember.Controller.extend({
-});

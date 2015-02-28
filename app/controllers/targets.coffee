@@ -1,6 +1,6 @@
 `import Ember from 'ember'`
 
 TargetsController = Ember.Controller.extend
-  console: alert "1"
+  console: "HI"
 
 `export default TargetsController`

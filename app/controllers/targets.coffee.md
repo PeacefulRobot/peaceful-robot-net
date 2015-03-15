@@ -1,7 +1,6 @@
     `import Ember from 'ember'`
 
     TargetsController = Ember.Controller.extend
-      console: App.ApplicationAdapter = DS.RESTAdapter.extend
-          host: "localapps/EmberProjects/Sample/js/data/employees.json?jsonp=?"
+      console: console.info "HI"
 
     `export default TargetsController`

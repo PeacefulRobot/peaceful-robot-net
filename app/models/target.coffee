@@ -1,6 +1,6 @@
 `import DS from 'ember-data'`
 
-App.BugAdapter = DS.RESTAdapter.extend({
+BugAdapter = DS.RESTAdapter.extend({
   host: 'http://localhost:4200/bugsheet'
 })
 

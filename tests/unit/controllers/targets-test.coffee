@@ -1,6 +1,6 @@
 `import { test, moduleFor } from 'ember-qunit'`
 
-moduleFor 'controller:targets', {
+moduleFor 'controller:targets.coffee.md', {
   # Specify the other units that are required for this test.
   # needs: ['controller:foo']
 }

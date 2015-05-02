@@ -1,5 +1,20 @@
 <p>CONSOLE:</p>
 
-{{model}}
+{{query.results.body.div.class.div.div.div.ul.li.a in model}}
 
 <pre>{{console}}</pre>
+
+<h3>Last 3 Pull Requests to Ember.js</h3>
+<ul>
+{{#each bugprog in model}}
+  <li>
+    <div class="issue-number">#{{bugprog.class.ul.li.a}}</div>
+    <div class="issue-title">
+      <a {{bind-attr href=pr.html_url}}>{{query.results.body.div.class.div.div.div.ul.li.a.class}}</a>
+    </div>
+    <div class="author-name">
+      Opened by <a {{bind-attr href=pr.head.user.html_url}}><strong>@{{pr.head.user.login}}</strong></a>
+    </div>
+  </li>
+{{/each}}
+</ul>

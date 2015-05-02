@@ -1,6 +1,6 @@
-    `import Ember from 'ember'`
+`import Ember from 'ember'`
 
-    TargetsController = Ember.Controller.extend
-      console: "Hi from target.coffee.md controller"
+TargetsController = Ember.Controller.extend
+  console: "Hi from target.coffee.md c0ntroller"      
 
-    `export default TargetsController`
+`export default TargetsController`

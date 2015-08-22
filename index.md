@@ -22,6 +22,5 @@ Funding is provided by bug bounty programs for real-world testing and microservi
 ## Contact
 [@peacefulrobot_](https://twitter.com/peacefulrobot_)
 
-BM-87ZSMqHYH32vbE2bncxzUTxdTogNb5gvo19
 
 Copyright 2015 Peaceful Robot Cybersecurity. This work is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a>.

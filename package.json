@@ -1,0 +1,23 @@
+{
+  "name": "pr-website-assets",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.md",
+  "dependencies": {
+    "harp": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "harp compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peacefulrobot/pr-website-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peacefulrobot/pr-website-assets/issues"
+  },
+  "homepage": "https://github.com/peacefulrobot/pr-website-assets"
+}

@@ -5,7 +5,7 @@ A not-for-profit cybersecurity initiative
 
 ## About
 
-Peaceful Robot Cybersecurity is a research initiative providing preventive measures for the secure software development lifecycle and creating solutions that leverage emerging technologies in Infrastructure-as-a-Service, DevOps, developer toolkits, and cybersecurity.
+Peaceful Robot Cybersecurity is an independent research initiative providing preventive measures for the secure software development lifecycle and creating solutions that leverage emerging technologies in Infrastructure-as-a-Service, DevOps, developer toolkits, and cybersecurity.
 
 
 ## Research

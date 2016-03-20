@@ -10,13 +10,13 @@ Peaceful Robot Cybersecurity is an independent research initiative providing pre
 
 ## Research
 
-Manual code review for information security weaknesses in programming languages such as C#, Java, PHP, Python, Javascript.
+Manual code review for information security weaknesses in programming languages such as Python, Javascript, PHP, Java and C#.
 
 Normalize vulnerability patterns for various programming languages to discover weaknesses during static analysis using "Cybersecurity unit testing".
 
-Using Docker images, Chef recipes, and other automated toolkits such as GruntJS, build scripts, etc in git repositories to readily integrate solutions into the technology process lifecycle while still maintaining auditability.
+Using Docker images, Chef recipes, and other automated toolkits such as GruntJS, build scripts, etc in public git repositories to readily integrate solutions into the technology process lifecycle while still maintaining auditability.
 
-Funding is provided by bug bounty programs for real-world testing and microservices of developed solutions.
+Funding is provided by real-world testing of tooling with bug bounty programs, in addition to providing microservices of developed solutions.
 
 
 ## Contact

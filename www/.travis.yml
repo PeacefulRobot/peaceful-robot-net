@@ -1,5 +1,5 @@
 language: node_js
-  - "node"
-  - "iojs"
-script: npm test
+install:
+    - npm install
+script: harp compile
 sudo: false

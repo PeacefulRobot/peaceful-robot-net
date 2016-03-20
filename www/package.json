@@ -1,14 +1,14 @@
 {
   "name": "pr-website-assets",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Peaceful Robot Cybersecurity Website",
   "main": "index.md",
   "dependencies": {
-    "harp": "^0.17.0"
+    "harp": "*"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "harp compile"
+    "test": ""
   },
   "repository": {
     "type": "git",
